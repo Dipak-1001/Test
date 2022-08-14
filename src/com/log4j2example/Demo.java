@@ -8,8 +8,6 @@ public class Demo {
 	private static final Logger log=LogManager.getLogger();
 	
 	public void m1() {
-		
 		System.out.println("Demo Class M1 Method");
-		
 	}
 }
